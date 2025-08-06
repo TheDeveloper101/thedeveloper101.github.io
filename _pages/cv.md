@@ -17,9 +17,9 @@ Work experience
 ======
 * Spring 2024 - Spring 2025, Fall 2025 - Present: Programming Languages Research Assistant at UMD
   * Developed novel type system based on typestate principles to prevent energy usage bugs in intermittent devices
-* Enabled type system to reason about energy usage in intermittent systems to prevent device bricking bugs
-* Created core calculus to model driver behavior, and developed a type checking tool in Rust to run on TockOS HAL
-* Proved the type system prevents device bricking bugs and only allows correct programs to be compiled
+  * Enabled type system to reason about energy usage in intermittent systems to prevent device bricking bugs
+  * Created core calculus to model driver behavior, and developed a type checking tool in Rust to run on TockOS HAL
+  * Proved the type system prevents device bricking bugs and only allows correct programs to be compiled
 
 * Fall 2015: Research Assistant
   * GitHub University
