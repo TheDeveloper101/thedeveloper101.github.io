@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sai Divvela / formally verified nonsense"
+title                    : "Sai Divvela: Formally Verified Nonsense"
 title_separator          : "-"
 name                     : &name "Sai Divvela"
 description              : &description "Undergraduate student at University of Maryland College Park. Double majoring in Computer Science and Mathematics. Interested in programming language theory, and it's applications."
