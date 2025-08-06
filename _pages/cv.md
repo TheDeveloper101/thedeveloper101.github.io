@@ -46,5 +46,5 @@ Projects
 Service and leadership
 ======
 * MatLab tutor for Math department (Spring 2025 to present)
-* Undergraduate member of UMD CS Education Committee
-* Co-founder and organizer of UMD undergraduate Programming Language Theory Club
+* Undergraduate member of UMD CS Education Committee (Fall 2025 - Spring 2026)
+* Co-founder and organizer of UMD undergraduate Programming Language Theory Club (Fall 2024 to present)
