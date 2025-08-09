@@ -21,30 +21,31 @@ Work experience
   * Created core calculus to model driver behavior, and developed a type checking tool in Rust to run on TockOS HAL
   * Proved the type system prevents device bricking bugs and only allows correct programs to be compiled
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2025: Reed Research Fellow
+  * Analyzed effects of context switching for caches, proved that gaining additional memory results in optimal performance
+  * Improved worst case time bounds for cache adaptive algorithms by 50%
+  * Proved that initial contents of a cache do not affect the asymptotic performance of common caching strategies
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2023: JHU Student Researcher
+  * Worked to develop an ML algorithm for classifying signals in Python that have poor signal-to-noise ratios by utilizing Independent Component Analysis and Neural Networks
+  * Created training data by utilizing a bootstrapping method to create signals which were statistically similar to experiments
+
+* Summer 2022 - Spring 2023: Intern/Visiting Student at HEMI, JHU
+  * Designed and developed algorithm in Python and GMSH to generate models of different materials for use in phase-field simulations under the supervision of a postdoctoral researcher
+  * Allowed algorithm interface with experimental data to generate accurate models
+
+* Spring 2022 - Spring 2023: Intern/Visiting Student at HEMI, JHU
+  * Developed account management system for users to interact with tournament management software ensuring users can log in securely and passwords are protected
+  * Migrated company libraries and frameworks from Python to Rust, increasing speed by about 30% and reducing latency and technical debt 
 
 Projects
 ======
-  
+* SnaKT Verifier: Worked to enhance type system for Kotlin to enable formal verification of programs. Improved precision of Kotlin to Viper translation to verify more programs such as linked lists 
+* faer Linear Algebra Library: Added vectorization within various linear algebra primitives to improve performance by 1.5-2x from baseline, and outperforming industry standard solvers on certain benchmarks
+* Autovectorization in Rust: Working on adding language support for autovectorization
+
 Service and leadership
 ======
 * MatLab tutor for Math department (Spring 2025 to present)
-* Undergraduate member of UMD CS Education Committee (Fall 2025 - Spring 2026)
-* Co-founder and organizer of UMD undergraduate Programming Language Theory Club (Fall 2024 to present)
+* Undergraduate member of CS Education Committee (Fall 2025 - Spring 2026)
+* Co-founder and organizer of undergraduate Programming Language Theory Club (Fall 2024 to present)
