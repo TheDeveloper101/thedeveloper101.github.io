@@ -34,7 +34,7 @@ Work experience
   * Designed and developed algorithm in Python and GMSH to generate models of different materials for use in phase-field simulations under the supervision of a postdoctoral researcher
   * Allowed algorithm interface with experimental data to generate accurate models
 
-* Spring 2022 - Spring 2023: Intern/Visiting Student at HEMI, JHU
+* Spring 2022 - Spring 2023: Developer at Monarch Events
   * Developed account management system for users to interact with tournament management software ensuring users can log in securely and passwords are protected
   * Migrated company libraries and frameworks from Python to Rust, increasing speed by about 30% and reducing latency and technical debt 
 
