@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Mathematics, University of Maryland, 2027 (expected)
+* B.S. in Computer Science and Mathematics, University of Maryland, 2026 (expected)
 
 Work experience
 ======
