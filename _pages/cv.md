@@ -16,10 +16,9 @@ Education
 Work experience
 ======
 * Spring 2024 - Spring 2025, Fall 2025 - Present: Programming Languages Research Assistant at UMD
-  * Developed novel type system based on typestate principles to prevent energy usage bugs in intermittent devices
-  * Enabled type system to reason about energy usage in intermittent systems to prevent device bricking bugs
+  * Developed novel type system based on typestate principles to prevent energy usage bugs in intermittent devices, collaborating with researchers from UCSD 
+  * Enabled type system to reason about energy usage in intermittent systems to statically bound the amount of energy used
   * Created core calculus to model driver behavior, and developed a type checking tool in Rust to run on TockOS HAL
-  * Proved the type system prevents device bricking bugs and only allows correct programs to be compiled
 
 * Summer 2025: Reed Research Fellow
   * Analyzed effects of context switching for caches, proved that gaining additional memory results in optimal performance
