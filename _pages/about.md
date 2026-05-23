@@ -12,6 +12,7 @@ Hi there! My name is Sai Divvela. I am an undergraduate at the University of Mar
 I am planning to apply for PhD programs in the 2026-2027 cycle. 
 
 Have we met? Please feel free to reach out! Places you may have seen me are:
+  - NJPLS Spring 2026
   - AmeriHac 2026
-  - NJPLS Spring 2025
   - NJPLS Winter 2025
+  - NJPLS Spring 2025
