@@ -243,3 +243,61 @@
     }
   }
 }
+
+// Publications — compact CV-style layout
+.publications-list {
+  .pub-entry {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 0.8rem 0;
+    border-top: 1px solid var(--global-border-color);
+    align-items: start;
+
+    &:last-child { border-bottom: 1px solid var(--global-border-color); }
+  }
+
+  .pub-title {
+    font-weight: 600;
+    font-size: 1.1rem;
+    line-height: 1.4;
+    margin-bottom: 2px;
+    a { color: var(--global-link-color); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  }
+
+  .pub-venue {
+    font-size: 0.8rem;
+    color: var(--global-text-color-light);
+    margin-bottom: 3px;
+  }
+
+  .pub-authors {
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+    margin-bottom: 5px;
+  }
+
+  .pub-links {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 4px;
+
+    a {
+      font-size: 0.8rem;
+      color: var(--global-link-color);
+      text-decoration: none;
+      border: 1px solid var(--global-link-color);
+      border-radius: 3px;
+      padding: 1px 7px;
+      &:hover { background: var(--global-border-color); }
+    }
+  }
+
+  .pub-award {
+    font-size: 0.8rem;
+    color: var(--global-text-color-light);
+    font-style: italic;
+  }
+}
