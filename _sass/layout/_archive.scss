@@ -4,6 +4,7 @@
 
 .archive {
   margin-bottom: 2em;
+  margin-right: 2em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -258,7 +259,7 @@
 
   .pub-title {
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     line-height: 1.4;
     margin-bottom: 2px;
     a { color: var(--global-link-color); text-decoration: none; }
@@ -266,7 +267,7 @@
   }
 
   .pub-venue {
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     color: var(--global-text-color-light);
     margin-bottom: 3px;
   }
