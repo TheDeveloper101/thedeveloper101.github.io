@@ -18,5 +18,5 @@ Have we met? Please feel free to reach out! Places you may have seen me are:
   - NJPLS Spring 2025
 
 
-my badge :)
+my badge :)  
 [<img src="files/button-88x31.png" height="33" width="88">](http://thedeveloper101.github.io)
