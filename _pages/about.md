@@ -17,4 +17,4 @@ Have we met? Please feel free to reach out! Places you may have seen me are:
   - NJPLS Winter 2025
   - NJPLS Spring 2025
 
-<a href=http://thedeveloper101.github.io><img src= files/button-88x31 height="33" width="88"></a>
+[<img src="files/button-88x31.png" height="33" width="88">](http://thedeveloper101.github.io)
