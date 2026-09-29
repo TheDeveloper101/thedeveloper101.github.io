@@ -19,4 +19,4 @@ Have we met? Please feel free to reach out! Places you may have seen me are:
 
 
 my badge :)  
-[<img src="files/button-88x31.png" height="33" width="88">](http://thedeveloper101.github.io)
+[<img src="files/button-88x31.png" height="31" width="88">](http://thedeveloper101.github.io)
