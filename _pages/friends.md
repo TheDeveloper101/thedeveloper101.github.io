@@ -34,3 +34,5 @@ Friends without 88x31s (but should make them ASAP):
 [Hemant Gouni](https://hgouni.com)
 
 [Anahita](https://golshani.ca)
+
+[Ryan El Kochta](https://relkochta.com)
