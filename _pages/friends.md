@@ -9,7 +9,7 @@ An incomplete list of my friends' websites! These are all incredible people you 
 
 Friends with 88x31s:
 
-[<img src="files/88x31.png" height="31" width="88">](https://ari.foo)
+[![ari](files/88x31.png)](https://ari.foo)
 
 [<img src="files/88x31-2.png" height="31" width="88">](https://selene.foo)
 
