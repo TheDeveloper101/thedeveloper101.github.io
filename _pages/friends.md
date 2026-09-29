@@ -16,6 +16,7 @@ Friends with 88x31s:
 <a href="https://ionathan.ch"><img src="/files/88x31.gif" height="31" width="88"></a>
 
 Friends without 88x31s (but should make them ASAP):
+
 [Isidore Mohr](https://isidoremohr.com)
 
 [Roger Burtonpatel](https://rogerburtonpatel.github.io)
