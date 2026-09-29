@@ -36,3 +36,7 @@ Friends without 88x31s (but should make them ASAP):
 [Anahita](https://golshani.ca)
 
 [Ryan El Kochta](https://relkochta.com)
+
+[Cephi](https://cephii.com)
+
+[Henry Segal](https://segal.sh)
