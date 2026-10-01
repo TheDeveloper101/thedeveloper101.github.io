@@ -40,3 +40,5 @@ Friends without 88x31s (but should make them ASAP):
 [Cephi](https://cephii.com)
 
 [Henry Segal](https://segal.sh)
+
+[Avery](https://averypi.space)
